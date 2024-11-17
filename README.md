@@ -7,3 +7,4 @@
 
 리포지토리 및 참고 경로
 - backend 서버 [backend 서버](https://github.com/dkssudrhd/hanCloud)
+- ERD [ERD](https://github.com/dkssudrhd/HanS3/blob/main/ERD/ERD.md)
