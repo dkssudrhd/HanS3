@@ -1,7 +1,9 @@
 # HanS3
 ![logo](https://github.com/user-attachments/assets/394846b6-3186-4735-b5dc-1fc42c62d571)
 
-> HanS3는 S3와 같이 클라우드로 파일을 저장하고 활용하기 위한 저의 개인 프로젝트 입니다.<br>
+> 2024.11 ~ 시작한 개인 프로젝트입니다. <br>
+> HanS3는 S3와 같이 클라우드로 파일을 저장하고 활용하기 위해 만들었습니다. <br>
+> 하나씩 배우며 새로운 기술과 오류 사항등을 조금씩 수정해 나갈 예정입니다. <br>
 > 요구사항 및 방향성을 설정하고 조금씩 수정해 나가며 진행 중입니다.
 
 ## 현재 진행 상황
@@ -16,6 +18,8 @@
 ## 사용기술
 
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white)
+
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=Ubuntu&logoColor=white)
 
 ![JAVA](https://img.shields.io/badge/JAVA-007396?style=flat&logo=OpenJDK&logoColor=white)
