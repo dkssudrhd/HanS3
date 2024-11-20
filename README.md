@@ -1,4 +1,6 @@
 # HanS3
+![logo](https://github.com/user-attachments/assets/394846b6-3186-4735-b5dc-1fc42c62d571)
+
 > HanS3는 S3와 같이 클라우드로 파일을 저장하고 활용하기 위한 저의 개인 프로젝트 입니다.<br>
 > 요구사항 및 방향성을 설정하고 조금씩 수정해 나가며 진행 중입니다.
 
