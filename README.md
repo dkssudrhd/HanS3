@@ -7,7 +7,8 @@
 > - 요구사항 및 방향성을 설정하고 조금씩 수정해 나가며 진행 중입니다.
 
 ## 현재 진행 상황
-> ERD 구조를 1차 설계를 완료하여 backend 서버를 구축 중에 있습니다.
+> ERD 구조를 1차 설계를 완료하여 backend 서버를 구축 중에 있습니다. <br>
+> Jenkins를 이용한 CI/CD 설계 완료.
 
 ## 리포지토리 및 참고 경로
 - backend 서버 [backend 서버](https://github.com/dkssudrhd/hanCloud) -> 현재 개발중 임으로 private 처리 해두었습니다.
@@ -21,6 +22,7 @@
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white)
 
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=Ubuntu&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=Jenkins&logoColor=white)
 
 ![JAVA](https://img.shields.io/badge/JAVA-007396?style=flat&logo=OpenJDK&logoColor=white)
 ![JPA](https://img.shields.io/badge/JPA-59666C?style=flat&logo=Hibernate&logoColor=white)
