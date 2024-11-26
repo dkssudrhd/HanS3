@@ -11,7 +11,7 @@
 > Jenkins를 이용한 CI/CD 설계 완료.
 
 ## 리포지토리 및 참고 경로
-- backend 서버 [backend 서버](https://github.com/dkssudrhd/hanCloud) -> 현재 개발중 임으로 private 처리 해두었습니다.
+- backend 서버 [backend 서버](https://github.com/dkssudrhd/hanCloud)
 - ERD [ERD](https://github.com/dkssudrhd/HanS3/blob/main/ERD/ERD.md)
 - 요구사항 및 설계 진행시 오류사항 모음 [요구사항 및 방향성](https://github.com/dkssudrhd/HanS3/blob/main/요구사항/요구사항%20및%20방향성.md)
 
