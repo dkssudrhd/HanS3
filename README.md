@@ -9,7 +9,7 @@
 ## 현재 진행 상황
 >
 - ERD 구조를 1차 설계를 완료하여 backend 서버를 구축 중에 있습니다.
-- Jenkins를 이용한 CI/CD 설계 완료.
+- Jenkins를 이용한 CI/CD 설계 완료
 - Spring Security 를 활용하여 api id, password 확인하는 과정 적용중
 
 ## 리포지토리 및 참고 경로
